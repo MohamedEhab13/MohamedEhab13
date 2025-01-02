@@ -1,4 +1,14 @@
-## Hi there 👋
+<h1 align= "center"> Hi I'm Mohamed Ehab👋 </h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hardward%20Verification%20Engineer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
+
+<p align="center">
+    <a href= "https://www.linkedin.com/in/mohamed-ehab13/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"∠></a>
+    <a href= "mailto:a.mohamedehab1003@gmail.com"><img src="https://img.shields.io/badge/gmail-%231FA1F1?style=flat&logo=gmail&logoColor=white"∠></a>
+ </p>	
+
 
 <!--
 **MohamedEhab13/MohamedEhab13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
