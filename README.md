@@ -14,6 +14,18 @@
 
 *I enjoy coding, debugging, and collaborating with a team to solve challenging problems and deliver high-quality results.*
 *My area of interest lies in **Digital IC Verification**, **UVM**, and **Formal Verification**, where I work to improve my skills and help make projects successful.*
+
+### 🛠 &nbsp;Tech Stack  
+![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-05122A?style=flat&logo=verilog)&nbsp;  
+![UVM](https://img.shields.io/badge/-UVM-05122A?style=flat&logo=uvm)&nbsp;  
+![Verilog](https://img.shields.io/badge/-Verilog-05122A?style=flat&logo=verilog)&nbsp;  
+![VHDL](https://img.shields.io/badge/-VHDL-05122A?style=flat&logo=vhdl)&nbsp;  
+![OOP](https://img.shields.io/badge/-OOP-05122A?style=flat&logo=oop)&nbsp;  
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)&nbsp;  
+![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=mathworks)&nbsp;  
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;  
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;  
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;  
 <!--
 **MohamedEhab13/MohamedEhab13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
