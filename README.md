@@ -16,7 +16,7 @@
 *My area of interest lies in **Digital IC Verification**, **UVM**, and **Formal Verification**, where I work to improve my skills and help make projects successful.*
 
 ### 🛠 &nbsp;Tech Stack
-![Verilog](https://img.shields.io/badge/-Verilog-05122A?style=flat&logo=verilog)&nbsp;
+![Verilog](https://img.shields.io/badge/-Verilog-05122A?style=flat&logo=verilog)&nbsp; 
 ![SystemVerilog](https://img.shields.io/badge/-SytemVerilog-05122A?style=flat&logo=systemverilog&logoColor=563D7C)&nbsp;
 ![VHDL](https://img.shields.io/badge/-VHDL-05122A?style=flat&logo=VHDL)&nbsp;
 ![OOP](https://img.shields.io/badge/-OOP-05122A?style=flat&logo=OOP3&logoColor=1572B6)&nbsp;
