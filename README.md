@@ -10,7 +10,8 @@
  </p>	
 
 
-*I am an extremely motivated **Hardware Verification Engineer** with interests in the fields of *Digital IC Design and Verification, Computer Architecture, Machine Learning, and Mobile Communication**. *
+*I am an extremely motivated **Hardware Verification Engineer** with interests in the fields of *Digital IC Design and Verification, Computer Architecture, Machine Learning, and Mobile Communication**. 
+
 *I enjoy coding, debugging, and collaborating with a team to solve challenging problems and deliver high-quality results.*
 *My area of interest lies in **Digital IC Verification**, **UVM**, and **Formal Verification**, where I work to improve my skills and help make projects successful.*
 <!--
