@@ -21,7 +21,7 @@
 ![VHDL](https://img.shields.io/badge/-VHDL-05122A?style=flat&logo=VHDL)&nbsp;
 ![OOP](https://img.shields.io/badge/-OOP-05122A?style=flat&logo=OOP3&logoColor=1572B6)&nbsp;
 ![UVM](https://img.shields.io/badge/-UVM-05122A?style=flat&logo=UVM)
-![Matlab](https://img.shields.io/badge/-Matlab-05122A?style=flat&logo=matlab&logoColor=339933)&nbsp;
+![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=mathworks)&nbsp; 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)&nbsp; 
